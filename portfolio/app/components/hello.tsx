@@ -1,5 +1,4 @@
 "use client"
-
 function Hello() {
     console.log("I'm a Client component");
 
